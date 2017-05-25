@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="wwwroot\js\Alp.js" />
     <Content Include="wwwroot\js\Ogan.js" />
   </ItemGroup>
   <ItemGroup>
